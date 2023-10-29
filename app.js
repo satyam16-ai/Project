@@ -1,1 +1,1 @@
- bnbvv
+console.log("Hello world!");
